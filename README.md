@@ -1,6 +1,6 @@
 # supaspin
 
-***2 or 3 phases synthesised sinewave generator suitable for driving turntable synchronous or BLDC motors, tachometer, OLED or BT/app display.***
+***2 or 3 phases synthesised sinewave generator suitable for driving turntable synchronous or BLDC motors (with suitable amplifier), tachometer, OLED or BT/app display, rotary encoder support.***
 
 ![20210212_180454](https://user-images.githubusercontent.com/6553778/150026303-0230ef0f-b120-468e-9ba8-85c3d9d89403.png)
 
